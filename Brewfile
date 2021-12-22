@@ -14,6 +14,7 @@ brew 'yarn'
 
 # Cask apps: brew --cask install <package>
 cask '1password'
+cask 'anydesk'
 cask 'amazon-chime'
 cask 'cleanmymac'
 cask 'discord'
